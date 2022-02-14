@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  text-align: start;
+  margin: 2rem auto;
+  width: 200px;
+}
+
+.todo-control {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+  gap: 1rem;
+}
